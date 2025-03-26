@@ -34,11 +34,21 @@ Needs are those which all living beings, including humans need for survival. Kee
 - ### Right & Best Foods
   Organic, chemical free and native food are the only way this planet & us humans can sustain almost perpetually. Growing, sourcing, consuming and recycling is key.
 
+ - ### Right & Best Foods
+   Organic, chemical free and native food are the only way this planet & us humans can sustain almost perpetually. Growing, sourcing, consuming and recycling is key.
+
 ## Shelter
  Once the tummy is full, a safe shelter becomes the final need for every living being, including humans. However, the modern humans are quickly becoming disconnected from the needs towards the wants that is detrimental to them and the ecology in the near distant future.
+
  - ### Safety
+   Safety is key to any shelter for all good reasons. Be it
+   1. #### Fire & Hazard Safety (or)
+   2. #### Structural Integrity Safety
+
  - ### Security
 
+#
+#
 # Luxury (Wants)
 Once the 'Needs' are fulfilled, then wants awakens.
 
